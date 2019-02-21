@@ -1,0 +1,18 @@
+{
+  "name": "devops-npm-auth",
+  "version": "0.1.0",
+  "description": "Azure DevOps npm auth utility all bundled up with no deps (uses better-vsts-npm-auth under the hood)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-vsts-npm-auth": "^4.2.0-beta.1",
+    "shebang-loader": "^0.0.1",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
