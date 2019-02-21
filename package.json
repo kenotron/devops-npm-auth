@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "better-vsts-npm-auth": "^4.2.0-beta.1",
     "shebang-loader": "^0.0.1",
