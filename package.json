@@ -10,8 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "better-vsts-npm-auth": "^4.2.0-beta.1",
-    "node-fetch": "^2.3.0"
+    "better-vsts-npm-auth": "^4.1.6"
   },
   "devDependencies": {
     "shebang-loader": "^0.0.1",

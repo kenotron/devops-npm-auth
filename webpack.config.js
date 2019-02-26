@@ -7,10 +7,5 @@ module.exports = {
     path: path.resolve(__dirname, 'lib'),
     filename: 'devops-npm-auth.js'
   },
-  mode: 'production',
-  resolve: {
-    alias: {
-      request$: path.join(__dirname, 'request')
-    }
-  }
+  mode: 'production'
 };
